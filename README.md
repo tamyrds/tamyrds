@@ -1,5 +1,5 @@
 💻 Hi, I`m currently working with QA area.
-I have experience with frontend using Cypress and mobile using appium.
+I have experience with frontend using Cypress, mobile using appium and backend API rest
 
 
 ##
